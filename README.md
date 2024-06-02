@@ -1,1 +1,1 @@
-# Simple Java Project
+# Simple Income Calculator
